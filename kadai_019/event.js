@@ -3,5 +3,5 @@ const button = document.getElementById('btn');
 
 btn.addEventListener('mousedown', ()=> {
 
-    text.textContent = 'ボタンをクリックしました';
+    h2.textContent = 'ボタンをクリックしました';
 });
